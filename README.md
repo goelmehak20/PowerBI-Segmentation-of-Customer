@@ -11,19 +11,26 @@ This project is an interactive Power BI dashboard designed to help marketing and
 
 ## 📈 Key Features
 
-- **Marketing Performance**
-  - ROI (%), Cost per Lead, Avg Revenue per Order
-  - Channel-wise and campaign-wise analysis
+- **Retail Dashboard**
+  - Total sales crossed **621K** with **North America** being the leading region.
+  - **Profit Margin:** 40%, **Return Rate:** 10%, **Avg Order Value:** 310.72
+  - Balanced customer gender base – effective for unisex marketing.
 
-- **Customer Segmentation**
-  - RFM scoring (Recency, Frequency, Monetary)
-  - Loyalty segmentation (Loyal, At Risk, Churned, etc.)
-  - AI-powered clusters using Power BI’s Auto-cluster
+- **Marketing ROI**
+  - **ROI:** 1.83%, **Cost per Lead:** 12.45
+  - Top Channels: Instagram, Google Ads
+  - Focus on top-performing campaigns to improve ROI.
+
+- **Customer Segmentation:**
+  - Used **RFM segmentation** and **AI clustering**.
+  - Majority spend comes from **Recent** and **Churned** segments.
+  - Tailored marketing strategies can boost **customer lifetime value**.
 
 - **UX Enhancements**
   - Conditional formatting
   - Dynamic slicers and drilldowns
   - Clean, dark-themed design
+
 
 ---
 
